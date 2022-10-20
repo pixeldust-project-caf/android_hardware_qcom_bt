@@ -89,7 +89,7 @@ endif
 LOCAL_CFLAGS += \
       -Wall \
       -Werror \
-      -Wno-error=user-defined-warnings \
+      -Wno-error \
       -Wno-incompatible-pointer-types-discards-qualifiers \
       -Wno-unused-function \
       -Wno-unused-label \
